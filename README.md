@@ -4,7 +4,7 @@ A macOS workbench for running many Claude Code agents at once: one person, dozen
 projects and machines. Built and used daily by one developer (iren). The code is private; this
 repository holds the film and a description of how it works.
 
-[![Agent Deck, 64 s film](media/poster.jpg)](media/agent-deck-promo.mp4)
+https://github.com/user-attachments/assets/86dfc90e-2e9e-4108-8a66-69ad53bbfb53
 
 *Every screen in the film is Agent Deck itself, recorded with test data (fake agents, a local web
 page, made-up machines). Nothing in it is staged in an editor.*
